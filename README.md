@@ -15,7 +15,11 @@ HTML, CSS, JavaScript, PHP, MySQL, WAMP Server
 
 # Screenshots
 
-![Home](https://user-images.githubusercontent.com/66522297/114924910-16abe800-9e4c-11eb-97c0-8079036a2b2b.JPG)
+![image012](https://user-images.githubusercontent.com/66522297/114925450-bff2de00-9e4c-11eb-9d5f-aebd8f1f3633.png)
+
+![image013](https://user-images.githubusercontent.com/66522297/114925444-be291a80-9e4c-11eb-8f07-67208abe17ee.png)
+
+![image014](https://user-images.githubusercontent.com/66522297/114925449-bf5a4780-9e4c-11eb-9cca-b6463d9db4d7.png)
 
 ![image015](https://user-images.githubusercontent.com/66522297/114924911-16abe800-9e4c-11eb-81d1-74a0050a6b90.png)
 
